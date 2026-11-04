@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#e879f9"/><stop offset="100%" stop-color="#facc15"/>
+</linearGradient></defs>
+<rect width="1200" height="110" fill="#050816"/>
+<path d="M0,55 C200,10 400,100 600,55 C800,10 1000,100 1200,55" fill="none" stroke="url(#f)" stroke-width="3">
+<animate attributeName="d" values="M0,55 C200,10 400,100 600,55 C800,10 1000,100 1200,55;M0,55 C200,100 400,10 600,55 C800,100 1000,10 1200,55;M0,55 C200,10 400,100 600,55 C800,10 1000,100 1200,55" dur="6s" repeatCount="indefinite"/></path>
+<text x="600" y="72" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="20" letter-spacing="4" fill="#e2e8f0">BUILD &#8226; TRAIN &#8226; DEPLOY &#8226; REPEAT</text>
+</svg>
